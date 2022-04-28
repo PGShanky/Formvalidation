@@ -1,0 +1,36 @@
+body{
+    background-color: lightgray;
+}
+.form{
+    background-color: ghostwhite;
+    padding: 5px;
+    margin: 300px;
+    text-align: center;
+    border: lightgray solid;
+    border-radius: 10px;
+    /*margin-left: 200px;*/
+    /*margin-right: 200px;*/
+}
+button{
+    color: #000000;
+    background: lightgray;
+    border-radius: 5px;
+}
+span{
+    text-align: center;
+    color: #151414;
+}
+li{
+    color: gray;
+    list-style: none;
+}
+h3{
+    font-family: David sans-serif;
+}
+a{
+    text-decoration: none;
+    color: gray;
+}
+a:hover{
+    color: black;
+}
